@@ -8,15 +8,17 @@ Built with plain HTML, CSS and JavaScript. No build step, no dependencies.
 
 ## Screenshots
 
-| London (clouds) | Sydney (rain) | Dubai (clear night, °F) |
+| Los Angeles (clear day) | Sydney (rain) | Dubai (clear night, °F) |
 |---|---|---|
-| ![London, broken clouds, 12 degrees, on a grey background](screenshots/london-clouds.png) | ![Sydney, light rain, 13 degrees, on a blue-grey background](screenshots/sydney-rain.png) | ![Dubai, clear sky at night in Fahrenheit, on a dark teal background](screenshots/dubai-clear-night-fahrenheit.png) |
+| ![Los Angeles, clear sky, 35 degrees, on a bright blue background](screenshots/los-angeles-clear-day.png) | ![Sydney, light rain, 13 degrees, on a blue-grey background](screenshots/sydney-rain.png) | ![Dubai, clear sky at night in Fahrenheit, on a dark teal background](screenshots/dubai-clear-night-fahrenheit.png) |
 
 The background changes with the weather and the time of day. On your first visit you will see the API key box:
 
 ![The API key box shown on first visit](screenshots/api-key-setup.png)
 
 *Screenshots show live data from OpenWeatherMap.*
+
+**Tip:** many city names exist in several countries (typing `Rome` gives Rome, USA). Add a country code to be exact, for example `Rome,IT` or `Paris,FR`.
 
 ## Get an API key (required)
 
